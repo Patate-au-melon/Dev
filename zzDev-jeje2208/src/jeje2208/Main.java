@@ -1,8 +1,8 @@
-package zzDev;
+package jeje2208;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
-public class jeje2008 extends JavaPlugin{
+public class Main extends JavaPlugin{
 	
 	public void onEnable(){
 		
