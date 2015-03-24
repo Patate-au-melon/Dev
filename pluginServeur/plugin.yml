@@ -1,0 +1,7 @@
+name: plug
+author: jeje2208
+main: first.Main
+version: 1.1.1
+commands:
+  shop:
+    description: Fonction shop
