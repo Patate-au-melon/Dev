@@ -2,7 +2,7 @@ package jeje2208;
 
 public class AFaire {
 	
-	//Partie commencé
+	//Partie commencÃ©
 	
 	/*
 	 * 
@@ -11,11 +11,19 @@ public class AFaire {
 	 * 
 	 */
 	
-	//Partie pas commencé
+	//Partie pas commencÃ©
 	
 	/*
 	 * 
 	 * 
 	 * 
+	 */
+	 
+	 //Partie idÃ©e qui me passe par la tete
+	 
+	 /*
+	 *
+	 *
+	 *
 	 */
 }
