@@ -6,8 +6,9 @@ public class AFaire {
 	
 	/*
 	 * 
-	 * commLobby mettre les reqette sql dans RecupConfigListServerName
-	 * mettre en place les bases de donnnee
+	 * finir la fonction stop cote lobby / serveur
+	 * faire des tests avec des messsages cote lobby / serveur
+	 * 
 	 * 
 	 */
 	
@@ -15,7 +16,9 @@ public class AFaire {
 	
 	/*
 	 * 
-	 * 
+	 * gerer les communications de base
+	 * mettre en place le systeme de config avancé
+	 * plugin pour gerer les panneau sur le lobby
 	 * 
 	 */
 	 
