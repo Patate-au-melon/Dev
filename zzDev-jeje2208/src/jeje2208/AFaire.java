@@ -8,6 +8,7 @@ public class AFaire {
 	 * 
 	 * tenter de resoudre le probleme lie a la deconnexion d'un serveur /pb buffered etc... non ferme
 	 * mettre en place le systeme d'arret global de tous les serveurs
+	 * finir la mise en place du systeme de verification que la connexion vers le lobby est etablie
 	 * 
 	 */
 	
