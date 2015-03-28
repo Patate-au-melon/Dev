@@ -17,12 +17,20 @@ public class AFaire {
 	/*
 	 * 
 	 * gerer les communications de base
-	 * mettre en place le systeme de config avanc�
+	 * mettre en place le systeme de config avancé
 	 * plugin pour gerer les panneau sur le lobby
 	 * 
 	 */
 	 
 	 //Partie idee qui me passe par la tete
+	 
+	 /*
+	 *
+	 *
+	 *
+	 */
+	 
+	 //Partie dit en réunion
 	 
 	 /*
 	 *
