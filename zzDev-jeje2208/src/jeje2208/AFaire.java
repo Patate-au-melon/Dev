@@ -7,8 +7,6 @@ public class AFaire {
 	/*
 	 * 
 	 * tenter de resoudre le probleme lie a la deconnexion d'un serveur /pb buffered etc... non ferme
-	 * mettre en place le systeme d'arret global de tous les serveurs
-	 * finir la mise en place du systeme de verification que la connexion vers le lobby est etablie
 	 * 
 	 */
 	
@@ -16,8 +14,7 @@ public class AFaire {
 	
 	/*
 	 * 
-	 * gerer les communications de base
-	 * mettre en place le systeme de config avancé
+	 * mettre en place le systeme de config avanc�
 	 * plugin pour gerer les panneau sur le lobby
 	 * 
 	 */
@@ -30,7 +27,7 @@ public class AFaire {
 	 *
 	 */
 	 
-	 //Partie dit en réunion
+	 //Partie dit en reunion
 	 
 	 /*
 	 *
