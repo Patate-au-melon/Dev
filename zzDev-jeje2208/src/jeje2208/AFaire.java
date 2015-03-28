@@ -6,9 +6,8 @@ public class AFaire {
 	
 	/*
 	 * 
-	 * finir la fonction stop cote lobby / serveur
-	 * faire des tests avec des messsages cote lobby / serveur
-	 * 
+	 * tenter de resoudre le probleme lie a la deconnexion d'un serveur /pb buffered etc... non ferme
+	 * mettre en place le systeme d'arret global de tous les serveurs
 	 * 
 	 */
 	
