@@ -15,7 +15,6 @@ public class AFaire {
 	/*
 	 * 
 	 * mettre en place le systeme de config avancé
-	 * plugin pour gerer les panneau sur le lobby
 	 * 
 	 */
 	 
