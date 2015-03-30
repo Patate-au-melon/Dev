@@ -14,7 +14,7 @@ public class AFaire {
 	
 	/*
 	 * 
-	 * mettre en place le systeme de config avancé
+	 * mettre en place le systeme de config avancÃ©
 	 * 
 	 */
 	 
@@ -22,7 +22,7 @@ public class AFaire {
 	 
 	 /*
 	 *
-	 *
+	 * voir pour utilisation des socket en php avec le dev web
 	 *
 	 */
 	 
