@@ -8,6 +8,7 @@ public class AFaire {
 	 * 
 	 * tenter de resoudre le probleme lie a la deconnexion d'un serveur /pb buffered etc... non ferme
 	 * probleme lors de l'echange de message entre les serveurs --> lobby, erreur sur la ligne 50 de server.ReceiveMessage
+	 * base de donnee pour sauvegarder la liste et la position des panneau 
 	 *
 	 */
 	
