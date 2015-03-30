@@ -7,7 +7,8 @@ public class AFaire {
 	/*
 	 * 
 	 * tenter de resoudre le probleme lie a la deconnexion d'un serveur /pb buffered etc... non ferme
-	 * 
+	 * probleme lors de l'echange de message entre les serveurs et le lobby, erreur sur la ligne 50 de server.ReceiveMessage
+	 *
 	 */
 	
 	//Partie pas commence
