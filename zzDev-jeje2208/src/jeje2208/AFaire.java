@@ -15,6 +15,7 @@ public class AFaire {
 	
 	/*
 	 * 
+	 * regardé si la couleur passe sur les panneaux
 	 * mettre en place le systeme de config avancé
 	 * testé si il y a un probleme lors de l'echange de message dans le sens lobby --> serveurs
 	 * 
@@ -24,7 +25,7 @@ public class AFaire {
 	 
 	 /*
 	 *
-	 * voir pour utilisation des socket en php avec le dev web
+	 * voir avec le dev web pour utilisation des socket en php
 	 * gestion base de donnee pour obtenir la liste de tous les panneaux en cas de non connexion des serveurs
 	 *
 	 */
