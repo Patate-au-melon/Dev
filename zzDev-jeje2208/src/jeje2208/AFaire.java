@@ -16,7 +16,7 @@ public class AFaire {
 	/*
 	 * 
 	 * mettre en place le systeme de config avancé
-	 * testé si il y a un probleme lors de l'echange de message dans le sens lobby --> serveur
+	 * testé si il y a un probleme lors de l'echange de message dans le sens lobby --> serveurs
 	 * 
 	 */
 	 
