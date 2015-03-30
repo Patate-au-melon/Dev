@@ -25,6 +25,7 @@ public class AFaire {
 	 /*
 	 *
 	 * voir pour utilisation des socket en php avec le dev web
+	 * gestion base de donnee pour obtenir la liste de tous les panneaux en cas de non connexion des serveurs
 	 *
 	 */
 	 
