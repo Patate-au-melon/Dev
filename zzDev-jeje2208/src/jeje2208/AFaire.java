@@ -18,6 +18,7 @@ public class AFaire {
 	 * regardé si la couleur passe sur les panneaux
 	 * mettre en place le systeme de config avancé
 	 * testé si il y a un probleme lors de l'echange de message dans le sens lobby --> serveurs
+	 * base de donnée pour les moneys, plus une autre pour les stats
 	 * 
 	 */
 	 
