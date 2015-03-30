@@ -28,6 +28,8 @@ public class AFaire {
 	 *
 	 * voir avec le dev web pour utilisation des socket en php
 	 * gestion base de donnee pour obtenir la liste de tous les panneaux en cas de non connexion des serveurs
+	 * voir avec salunaire pour le systeme de couleur et creation d'un system random
+	 * voir avec salunaire pour les armures a couleur fixe pour le pannel de selection
 	 *
 	 */
 	 
